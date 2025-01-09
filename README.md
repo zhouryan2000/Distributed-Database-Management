@@ -1,5 +1,4 @@
-# ms4-group-11
-ms4-group-11 created by GitHub Classroom
+# Distributed Database system
 
 To run the code locally,
 
